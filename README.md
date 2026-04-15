@@ -16,11 +16,5 @@ This project reduces waiting time in public service centers using an Arduino-bas
 ## 💡 Formula
 Waiting Time = Token Number × 2 minutes
 
-## 📸 Demo
-(Add images here)
-
-## 🎥 Video
-(Add YouTube link)
-
 ## ⚠️ Disclaimer
 This project uses dummy data.
