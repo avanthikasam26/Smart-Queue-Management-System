@@ -1,2 +1,26 @@
-# Smart-Queue-Management-System
-IoT-based queue system using Arduino to reduce waiting time.
+# Smart Queue Management System using Arduino
+
+## 📌 Overview
+This project reduces waiting time in public service centers using an Arduino-based token system.
+
+## ⚙️ How It Works
+- User scans RFID card
+- Token number is generated
+- Waiting time is displayed
+
+## 🧰 Components
+- Arduino Uno
+- RFID Module
+- LCD Display
+
+## 💡 Formula
+Waiting Time = Token Number × 2 minutes
+
+## 📸 Demo
+(Add images here)
+
+## 🎥 Video
+(Add YouTube link)
+
+## ⚠️ Disclaimer
+This project uses dummy data.
